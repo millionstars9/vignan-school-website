@@ -351,6 +351,16 @@ h1 {
   margin: 0 0 7px;
 }
 
+.footer-link {
+  color: #dae4ef;
+  text-decoration: underline;
+  text-underline-offset: 2px;
+}
+
+.footer-link:hover {
+  color: #ffffff;
+}
+
 @media (max-width: 880px) {
   .hero-grid,
   .cards.three,
