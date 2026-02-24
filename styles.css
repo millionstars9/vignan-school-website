@@ -97,6 +97,27 @@ body {
   align-items: center;
 }
 
+.hero-side {
+  display: grid;
+  gap: 16px;
+}
+
+.hero-image-wrap {
+  margin: 0;
+  background: linear-gradient(160deg, #fff, #f4fbff);
+  border: 1px solid var(--line);
+  border-radius: 18px;
+  box-shadow: var(--shadow);
+  overflow: hidden;
+}
+
+.hero-image-wrap img {
+  display: block;
+  width: 100%;
+  aspect-ratio: 16 / 10;
+  object-fit: cover;
+}
+
 .hero-kicker {
   color: var(--brand-strong);
   font-weight: 700;
@@ -261,6 +282,16 @@ h1 {
   box-shadow: 0 8px 24px rgba(17, 32, 56, 0.08);
 }
 
+.card-image {
+  display: block;
+  width: 100%;
+  aspect-ratio: 4 / 3;
+  object-fit: cover;
+  border-radius: 12px;
+  margin-bottom: 14px;
+  border: 1px solid rgba(216, 226, 234, 0.9);
+}
+
 .card h3 {
   margin-top: 0;
 }
@@ -329,7 +360,7 @@ h1 {
     grid-template-columns: 1fr 1fr;
   }
 
-  .hero-card {
+  .hero-side {
     grid-column: span 2;
   }
 }
@@ -365,7 +396,7 @@ h1 {
   .cards.two,
   .stats,
   .footer-grid,
-  .hero-card {
+  .hero-side {
     grid-template-columns: 1fr;
   }
 }

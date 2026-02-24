@@ -1,0 +1,37 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 520" role="img" aria-label="Young children in primary classroom">
+  <rect width="800" height="520" fill="#eef6ff"/>
+  <rect x="56" y="58" width="688" height="404" rx="24" fill="#ffffff"/>
+  <rect x="94" y="96" width="612" height="86" rx="16" fill="#d8ebff"/>
+
+  <g transform="translate(260 272)">
+    <circle cx="0" cy="0" r="34" fill="#f2c5a1"/>
+    <rect x="-32" y="40" width="64" height="92" rx="20" fill="#0c7b93"/>
+    <rect x="-26" y="132" width="20" height="62" rx="10" fill="#3f5872"/>
+    <rect x="6" y="132" width="20" height="62" rx="10" fill="#3f5872"/>
+    <circle cx="-11" cy="-8" r="4" fill="#2e2e2e"/>
+    <circle cx="11" cy="-8" r="4" fill="#2e2e2e"/>
+    <path d="M -9 15 Q 0 24 9 15" stroke="#8b4d3e" stroke-width="3.5" fill="none"/>
+  </g>
+
+  <g transform="translate(400 252)">
+    <circle cx="0" cy="0" r="36" fill="#f3c7a5"/>
+    <rect x="-34" y="44" width="68" height="96" rx="22" fill="#f2a541"/>
+    <rect x="-28" y="140" width="22" height="62" rx="10" fill="#435d76"/>
+    <rect x="6" y="140" width="22" height="62" rx="10" fill="#435d76"/>
+    <circle cx="-12" cy="-8" r="4" fill="#2e2e2e"/>
+    <circle cx="12" cy="-8" r="4" fill="#2e2e2e"/>
+    <path d="M -10 16 Q 0 28 10 16" stroke="#8b4d3e" stroke-width="3.5" fill="none"/>
+  </g>
+
+  <g transform="translate(540 272)">
+    <circle cx="0" cy="0" r="34" fill="#efc19d"/>
+    <rect x="-32" y="40" width="64" height="92" rx="20" fill="#5fb8ce"/>
+    <rect x="-26" y="132" width="20" height="62" rx="10" fill="#415b74"/>
+    <rect x="6" y="132" width="20" height="62" rx="10" fill="#415b74"/>
+    <circle cx="-11" cy="-8" r="4" fill="#2e2e2e"/>
+    <circle cx="11" cy="-8" r="4" fill="#2e2e2e"/>
+    <path d="M -9 15 Q 0 24 9 15" stroke="#8b4d3e" stroke-width="3.5" fill="none"/>
+  </g>
+
+  <rect x="204" y="346" width="392" height="70" rx="18" fill="#d3e8f5"/>
+</svg>

@@ -1,0 +1,66 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 760" role="img" aria-label="School children and teacher in campus courtyard">
+  <defs>
+    <linearGradient id="sky" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#dff4ff"/>
+      <stop offset="1" stop-color="#f7fbff"/>
+    </linearGradient>
+    <linearGradient id="ground" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#d9f3dd"/>
+      <stop offset="1" stop-color="#bde3c5"/>
+    </linearGradient>
+  </defs>
+
+  <rect width="1200" height="760" fill="url(#sky)"/>
+  <rect y="520" width="1200" height="240" fill="url(#ground)"/>
+  <rect x="80" y="200" width="1040" height="360" rx="24" fill="#ffffff"/>
+  <rect x="120" y="240" width="330" height="260" rx="16" fill="#e8f5ff"/>
+  <rect x="480" y="240" width="620" height="260" rx="16" fill="#fff6e9"/>
+
+  <rect x="0" y="500" width="1200" height="36" fill="#8ec3d6"/>
+
+  <g transform="translate(210 340)">
+    <circle cx="0" cy="0" r="42" fill="#f5c9a6"/>
+    <rect x="-36" y="48" width="72" height="110" rx="24" fill="#0c7b93"/>
+    <rect x="-64" y="160" width="44" height="90" rx="18" fill="#2f5063"/>
+    <rect x="20" y="160" width="44" height="90" rx="18" fill="#2f5063"/>
+    <circle cx="-16" cy="-8" r="5" fill="#2f2f2f"/>
+    <circle cx="16" cy="-8" r="5" fill="#2f2f2f"/>
+    <path d="M -14 20 Q 0 34 14 20" stroke="#8b4d3e" stroke-width="4" fill="none"/>
+  </g>
+
+  <g transform="translate(360 354)">
+    <circle cx="0" cy="0" r="38" fill="#f2c39c"/>
+    <rect x="-34" y="44" width="68" height="104" rx="22" fill="#f2a541"/>
+    <rect x="-58" y="148" width="40" height="88" rx="16" fill="#3c556e"/>
+    <rect x="18" y="148" width="40" height="88" rx="16" fill="#3c556e"/>
+    <circle cx="-13" cy="-8" r="4.5" fill="#2f2f2f"/>
+    <circle cx="13" cy="-8" r="4.5" fill="#2f2f2f"/>
+    <path d="M -12 18 Q 0 30 12 18" stroke="#8b4d3e" stroke-width="4" fill="none"/>
+  </g>
+
+  <g transform="translate(670 340)">
+    <circle cx="0" cy="0" r="44" fill="#f4c8a2"/>
+    <rect x="-42" y="50" width="84" height="122" rx="24" fill="#0d5f75"/>
+    <rect x="-70" y="174" width="46" height="92" rx="18" fill="#425a74"/>
+    <rect x="24" y="174" width="46" height="92" rx="18" fill="#425a74"/>
+    <rect x="-90" y="72" width="40" height="14" rx="7" fill="#f4c8a2"/>
+    <rect x="50" y="72" width="40" height="14" rx="7" fill="#f4c8a2"/>
+    <circle cx="-16" cy="-9" r="5" fill="#2f2f2f"/>
+    <circle cx="16" cy="-9" r="5" fill="#2f2f2f"/>
+    <path d="M -14 20 Q 0 34 14 20" stroke="#8b4d3e" stroke-width="4" fill="none"/>
+  </g>
+
+  <g transform="translate(860 350)">
+    <circle cx="0" cy="0" r="38" fill="#f2c5a1"/>
+    <rect x="-36" y="44" width="72" height="108" rx="24" fill="#5db4c9"/>
+    <rect x="-62" y="154" width="42" height="88" rx="16" fill="#4b6078"/>
+    <rect x="20" y="154" width="42" height="88" rx="16" fill="#4b6078"/>
+    <circle cx="-13" cy="-7" r="4.5" fill="#2f2f2f"/>
+    <circle cx="13" cy="-7" r="4.5" fill="#2f2f2f"/>
+    <path d="M -11 18 Q 0 28 11 18" stroke="#8b4d3e" stroke-width="4" fill="none"/>
+  </g>
+
+  <circle cx="170" cy="130" r="46" fill="#ffe2a8" opacity="0.85"/>
+  <rect x="940" y="118" width="150" height="24" rx="12" fill="#0c7b93" opacity="0.2"/>
+  <rect x="920" y="154" width="190" height="20" rx="10" fill="#0c7b93" opacity="0.16"/>
+</svg>

@@ -1,0 +1,39 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 520" role="img" aria-label="Children helping each other and learning values">
+  <rect width="800" height="520" fill="#ecf8f1"/>
+  <rect x="56" y="58" width="688" height="404" rx="24" fill="#ffffff"/>
+  <rect x="92" y="96" width="616" height="72" rx="16" fill="#d7f0e2"/>
+
+  <g transform="translate(250 270)">
+    <circle cx="0" cy="0" r="36" fill="#f2c49f"/>
+    <rect x="-34" y="44" width="68" height="98" rx="22" fill="#0c7b93"/>
+    <rect x="-30" y="142" width="24" height="64" rx="10" fill="#425a74"/>
+    <rect x="6" y="142" width="24" height="64" rx="10" fill="#425a74"/>
+    <rect x="34" y="92" width="56" height="18" rx="8" fill="#f2c49f"/>
+    <circle cx="-12" cy="-8" r="4" fill="#2e2e2e"/>
+    <circle cx="12" cy="-8" r="4" fill="#2e2e2e"/>
+    <path d="M -10 16 Q 0 27 10 16" stroke="#8b4d3e" stroke-width="3.5" fill="none"/>
+  </g>
+
+  <g transform="translate(400 250)">
+    <circle cx="0" cy="0" r="38" fill="#f3c8a6"/>
+    <rect x="-36" y="46" width="72" height="102" rx="24" fill="#f2a541"/>
+    <rect x="-30" y="148" width="24" height="66" rx="10" fill="#455f78"/>
+    <rect x="6" y="148" width="24" height="66" rx="10" fill="#455f78"/>
+    <circle cx="-13" cy="-8" r="4" fill="#2e2e2e"/>
+    <circle cx="13" cy="-8" r="4" fill="#2e2e2e"/>
+    <path d="M -11 17 Q 0 30 11 17" stroke="#8b4d3e" stroke-width="3.5" fill="none"/>
+  </g>
+
+  <g transform="translate(550 270)">
+    <circle cx="0" cy="0" r="36" fill="#efc19f"/>
+    <rect x="-34" y="44" width="68" height="98" rx="22" fill="#5db4c9"/>
+    <rect x="-30" y="142" width="24" height="64" rx="10" fill="#425c76"/>
+    <rect x="6" y="142" width="24" height="64" rx="10" fill="#425c76"/>
+    <rect x="-88" y="92" width="54" height="18" rx="8" fill="#efc19f"/>
+    <circle cx="-12" cy="-8" r="4" fill="#2e2e2e"/>
+    <circle cx="12" cy="-8" r="4" fill="#2e2e2e"/>
+    <path d="M -10 16 Q 0 27 10 16" stroke="#8b4d3e" stroke-width="3.5" fill="none"/>
+  </g>
+
+  <path d="M 344 348 Q 400 374 456 348" stroke="#0d5f75" stroke-width="6" fill="none"/>
+</svg>
